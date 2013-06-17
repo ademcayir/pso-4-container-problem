@@ -1,0 +1,16 @@
+label:Speedfol BoMan 5Kg
+ambalaj:iç ambalaj+karton kutu
+en:30
+en_tolerans:0.5
+boy:31
+boy_tolerans:0.5
+taban:10
+taban_tolerans:0.5
+ic_ambalaj:37gr
+koli_tolerans:1
+koli_agirlik_metre:0.1
+palet_en:110
+palet_taban:110
+palet_boy_10
+
+
